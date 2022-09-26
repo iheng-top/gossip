@@ -7,7 +7,7 @@ body {
     border: 1px solid;
 } */
 
-/* #gossip-canvas {
+#gossip-canvas {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -21,4 +21,4 @@ body {
     100% {
         transform:rotate(-360deg);
     }
-} */
+}
