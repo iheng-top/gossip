@@ -1,0 +1,24 @@
+body {
+    /* text-align: center; */
+    background-color: brown;
+}
+
+/* #gossip-canvas {
+    border: 1px solid;
+} */
+
+/* #gossip-canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    animation: canvas-transform 5s infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes canvas-transform {
+    100% {
+        transform:rotate(-360deg);
+    }
+} */
